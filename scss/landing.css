@@ -1,0 +1,76 @@
+body {
+  font-family: "Lato", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+}
+
+a {
+  text-decoration: none;
+  color: currentColor;
+}
+
+.nav-bar {
+  padding: 3rem 0;
+}
+.nav-bar ul {
+  display: flex;
+  color: #555;
+}
+.nav-bar ul a {
+  margin-right: 1rem;
+  padding: 0.8rem 1rem 0.8rem 0;
+}
+.nav-bar ul li:last-of-type a {
+  font-weight: bold;
+  color: #DD002F;
+}
+
+.hero {
+  padding: 3rem 0;
+  position: relative;
+  min-height: calc(100vh - 112px - 3rem * 2);
+  display: flex;
+  align-items: center;
+}
+.hero .hero-image {
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  width: 950px;
+  z-index: 1;
+}
+.hero .info {
+  display: flex;
+  flex-direction: column;
+  width: 55%;
+  position: relative;
+  z-index: 2;
+}
+.hero .info h1 {
+  color: #DD002F;
+  font-weight: 900;
+  font-size: 1.8rem;
+}
+.hero .info h2 {
+  font-size: 3.5rem;
+  font-weight: 300;
+  margin-top: 1rem;
+}
+.hero .info button {
+  margin-top: 2.5rem;
+  width: fit-content;
+  padding: 1rem 3rem;
+  background: #4C54E3;
+  color: #fff;
+  font-size: 0.9rem;
+  font-weight: 700;
+  box-shadow: 0 25px 50px -12px rgba(0, 0, 0, 0.25);
+  cursor: pointer;
+}
+.hero .info p {
+  margin-top: 5rem;
+  width: 50%;
+  line-height: 1.8;
+  opacity: 0.4;
+  font-style: italic;
+}
+
+/*# sourceMappingURL=landing.css.map */
