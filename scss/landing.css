@@ -57,6 +57,7 @@ a {
 .hero .info button {
   margin-top: 2.5rem;
   width: fit-content;
+  width: -moz-fit-content;
   padding: 1rem 3rem;
   background: #4C54E3;
   color: #fff;
@@ -71,6 +72,103 @@ a {
   line-height: 1.8;
   opacity: 0.4;
   font-style: italic;
+}
+
+.missions {
+  margin: 2.5rem 0;
+}
+.missions .text-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  font-size: 1.5rem;
+  text-align: center;
+  line-height: 1.8;
+  font-weight: 300;
+}
+.missions .text-container h2 {
+  color: #352C7F;
+  font-size: 1.5rem;
+  font-weight: bold;
+}
+.missions .features {
+  margin-top: 2.5rem;
+  margin-bottom: 5rem;
+}
+.missions .features ul {
+  display: flex;
+  justify-content: center;
+}
+.missions .features li {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 0 3rem;
+}
+.missions .features li i {
+  margin-right: 1.5rem;
+  font-size: 2rem;
+  color: #DD002F;
+}
+.missions .features li span {
+  line-height: 1.5;
+  max-width: 10rem;
+}
+
+.pricing {
+  position: relative;
+  background: #F2F6FA;
+}
+.pricing .image-container {
+  width: 40vw;
+  background: url("/images/pricing.png") #729CF6 center/contain no-repeat;
+  height: 100%;
+  position: absolute;
+  left: 0;
+  top: 0;
+}
+.pricing .container .pricing-content {
+  padding: 3rem 0 3rem 40vw;
+  display: flex;
+  width: 100%;
+}
+.pricing .container .pricing-content h2 {
+  font-size: 1.5rem;
+  font-weight: bold;
+  margin: 2rem 0;
+}
+.pricing .container .pricing-content ul {
+  margin: 2rem 0;
+  justify-content: space-between;
+  max-width: 22rem;
+}
+.pricing .container .pricing-content ul li {
+  font-weight: 300;
+}
+.pricing .container .pricing-content ul b {
+  font-size: 6rem;
+  margin-bottom: 1rem;
+  display: flex;
+}
+.pricing .container .pricing-content ul b:before {
+  content: "$";
+  font-size: 2rem;
+  margin-top: 1rem;
+  margin-right: 0.5rem;
+}
+.pricing .container .pricing-content ul span {
+  line-height: 1.5;
+  max-width: 8rem;
+}
+.pricing .container .pricing-content a {
+  color: #DD002F;
+  text-decoration: underline;
+  font-weight: bold;
+  margin-top: 2rem;
+}
+.pricing .container .pricing-content a i {
+  margin-left: 0.5rem;
 }
 
 /*# sourceMappingURL=landing.css.map */

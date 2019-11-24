@@ -1,22 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3d06ea6e-4857-49a0-9235-7f246e0db928" name="Default Changelist" comment="" />
+    <list default="true" id="3d06ea6e-4857-49a0-9235-7f246e0db928" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/images/tickets.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/common.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/common.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/ticket.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scss/landing.css" beforeDir="false" afterPath="$PROJECT_DIR$/scss/landing.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scss/landing.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/scss/landing.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scss/landing.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/landing.scss" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1TxY61FcPH8ogWFFI531MQtR6wo" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="settings.editor.selected.configurable" value="watcher.settings" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/css" />
       <recent name="$PROJECT_DIR$/images" />
+      <recent name="$PROJECT_DIR$/css" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -41,11 +54,26 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1574403034519</updated>
-      <workItem from="1574403035795" duration="8074000" />
+      <workItem from="1574403035795" duration="8456000" />
+      <workItem from="1574453009944" duration="59000" />
+      <workItem from="1574581502922" duration="7313000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
