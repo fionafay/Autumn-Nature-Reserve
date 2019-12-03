@@ -2,16 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3d06ea6e-4857-49a0-9235-7f246e0db928" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/images/tickets.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/fionafay.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/line.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/line2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/line3.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/common.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/common.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/ticket.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/explore.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/explore.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/scss/landing.css" beforeDir="false" afterPath="$PROJECT_DIR$/scss/landing.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/scss/landing.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/scss/landing.css.map" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/scss/landing.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/landing.scss" afterDir="false" />
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -22,7 +23,14 @@
   </component>
   <component name="ProjectId" id="1TxY61FcPH8ogWFFI531MQtR6wo" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="settings.editor.selected.configurable" value="watcher.settings" />
   </component>
@@ -32,15 +40,15 @@
       <recent name="$PROJECT_DIR$/css" />
     </key>
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
+  <component name="ServiceViewManager">
+    <option name="viewStates">
       <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
       </list>
     </option>
   </component>
@@ -56,7 +64,13 @@
       <updated>1574403034519</updated>
       <workItem from="1574403035795" duration="8456000" />
       <workItem from="1574453009944" duration="59000" />
-      <workItem from="1574581502922" duration="7313000" />
+      <workItem from="1574581502922" duration="7560000" />
+      <workItem from="1574749724479" duration="6136000" />
+      <workItem from="1575271255456" duration="288000" />
+      <workItem from="1575271580256" duration="19000" />
+      <workItem from="1575271610658" duration="1041000" />
+      <workItem from="1575356938184" duration="6152000" />
+      <workItem from="1575363997912" duration="230000" />
     </task>
     <servers />
   </component>
@@ -75,5 +89,19 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="507" y="275" key="#Notifications" timestamp="1575271660508">
+      <screen x="0" y="23" width="1920" height="1177" />
+    </state>
+    <state x="507" y="275" key="#Notifications/0.23.1920.1177@0.23.1920.1177" timestamp="1575271660508" />
+    <state x="648" y="346" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1575271593868">
+      <screen x="0" y="23" width="1920" height="1177" />
+    </state>
+    <state x="648" y="346" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.23.1920.1177@0.23.1920.1177" timestamp="1575271593867" />
+    <state x="992" y="288" width="670" height="676" key="search.everywhere.popup" timestamp="1575364018977">
+      <screen x="0" y="23" width="1920" height="1177" />
+    </state>
+    <state x="992" y="288" width="670" height="676" key="search.everywhere.popup/0.23.1920.1177@0.23.1920.1177" timestamp="1575364018977" />
   </component>
 </project>

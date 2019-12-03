@@ -171,4 +171,204 @@ a {
   margin-left: 0.5rem;
 }
 
+.reserve {
+  padding: 3rem 0;
+}
+.reserve h1 {
+  font-size: 2rem;
+  font-weight: 400;
+  margin: 2rem 0;
+  text-align: center;
+}
+.reserve .more-info-container {
+  display: flex;
+  flex-direction: column;
+  position: relative;
+}
+.reserve .more-info-container .row {
+  display: flex;
+}
+.reserve .more-info-container .row span {
+  flex: 1;
+  line-height: 1.5;
+  font-size: 1rem;
+}
+.reserve .more-info-container .row:nth-of-type(1) {
+  flex-direction: row-reverse;
+}
+.reserve .more-info-container .row:nth-of-type(1) span:not(:empty) {
+  margin: 15rem 3rem 1rem 14rem;
+}
+.reserve .more-info-container .row:nth-of-type(1) span:empty {
+  background: url("https://upload.wikimedia.org/wikipedia/en/5/57/Canadian_maple_leaf_2.jpg") no-repeat 3% 8%;
+  background-size: 15%;
+}
+.reserve .more-info-container .row:nth-of-type(2) span:not(:empty) {
+  margin: 0.5rem 14rem 5rem 2rem;
+}
+.reserve .more-info-container .row:nth-of-type(3) {
+  flex-direction: row-reverse;
+}
+.reserve .more-info-container .row:nth-of-type(3) span:not(:empty) {
+  margin: 4rem 4rem 6rem 5.5rem;
+}
+.reserve .more-info-container .line {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background: url("/images/line.png") no-repeat center;
+  background-size: contain;
+  z-index: -1;
+}
+
+.explore-container {
+  margin: 3rem 0;
+}
+.explore-container .container {
+  display: flex;
+  flex-direction: column;
+}
+.explore-container .container h1 {
+  text-align: center;
+  font-size: 2rem;
+  margin: 2rem 0 1.5rem;
+}
+.explore-container .container main {
+  display: flex;
+}
+.explore-container .container main figure {
+  flex: 2;
+  background: url("/images/explore.png") no-repeat center/contain;
+}
+.explore-container .container main aside {
+  flex: 3;
+  padding: 3rem 0;
+  display: flex;
+  flex-direction: column;
+  background: url("/images/line2.png") no-repeat 6% top/contain;
+}
+.explore-container .container main aside p {
+  line-height: 2;
+}
+.explore-container .container main aside p:first-of-type {
+  margin-top: 2rem;
+  margin-left: 40%;
+}
+.explore-container .container main aside p:last-of-type {
+  margin-left: 27%;
+  margin-right: 20%;
+  margin-top: 8rem;
+}
+
+.support-container {
+  margin: 5rem 0;
+}
+.support-container .container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.support-container .container h1 {
+  font-size: 1.5rem;
+  color: #DD002F;
+  font-weight: bold;
+}
+.support-container .container img {
+  width: 10%;
+  margin: 3rem 0;
+}
+
+.help-container, footer {
+  background: #F9FAFC;
+}
+
+.help-container {
+  padding: 2rem 0;
+}
+.help-container .container {
+  display: flex;
+  position: relative;
+}
+.help-container .container:after {
+  content: "";
+  position: absolute;
+  width: 100%;
+  background: lightgray;
+  opacity: 0.3;
+  height: 2px;
+  bottom: 0;
+}
+.help-container .container main {
+  flex: 2;
+  padding: 3rem 0 14rem;
+}
+.help-container .container main h2 {
+  font-size: 3rem;
+}
+.help-container .container main h3 {
+  margin-top: 1.5rem;
+  font-size: 2rem;
+  font-weight: bold;
+  color: #DD002F;
+}
+.help-container .container main a {
+  display: block;
+  margin-top: 5rem;
+  padding: 0.8rem 3rem;
+  font-weight: bold;
+  border: 2px solid #4C54E3;
+  color: #4C54E3;
+  width: fit-content;
+  width: -moz-fit-content;
+}
+.help-container .container figure {
+  flex: 4;
+  background: url("/images/other.png") no-repeat center/cover;
+}
+
+footer {
+  padding: 2rem 0;
+}
+footer .info {
+  display: flex;
+  padding: 1rem;
+  margin-bottom: 5rem;
+}
+footer .info > div {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+footer .info > div b {
+  font-weight: bold;
+  margin-bottom: 1rem;
+}
+footer .info > div span {
+  line-height: 1.5;
+  font-weight: 300;
+}
+footer .social-links {
+  display: flex;
+  justify-content: center;
+  position: relative;
+}
+footer .social-links:before {
+  content: "";
+  display: block;
+  position: absolute;
+  width: 6rem;
+  height: 2px;
+  border-radius: 99999px;
+  background: lightgray;
+  top: -2rem;
+}
+footer .social-links a {
+  margin: 0 1.2rem;
+  color: darkgray;
+  font-size: 1.2rem;
+}
+
 /*# sourceMappingURL=landing.css.map */
