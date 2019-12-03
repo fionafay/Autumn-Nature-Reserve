@@ -2,12 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3d06ea6e-4857-49a0-9235-7f246e0db928" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/fionafay.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/line.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/line2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/line3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scss/_desktop.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scss/_mobile.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scss/_tablet.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/explore.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/explore.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/scss/landing.css" beforeDir="false" afterPath="$PROJECT_DIR$/scss/landing.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/scss/landing.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/scss/landing.css.map" afterDir="false" />
@@ -22,7 +20,9 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1TxY61FcPH8ogWFFI531MQtR6wo" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -70,7 +70,7 @@
       <workItem from="1575271580256" duration="19000" />
       <workItem from="1575271610658" duration="1041000" />
       <workItem from="1575356938184" duration="6152000" />
-      <workItem from="1575363997912" duration="230000" />
+      <workItem from="1575363997912" duration="3478000" />
     </task>
     <servers />
   </component>

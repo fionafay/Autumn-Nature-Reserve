@@ -176,7 +176,16 @@
                 <i class="fab fa-instagram"></i>
             </a>
         </div>
+        <p id="copyright" style="text-align:center;margin-top: 2rem;"></p>
     </div>
 </footer>
+
+<script>
+    var today = new Date();
+    var copyright = document.getElementById('copyright');
+    copyright.innerHTML = '&copy; ' + today.getFullYear() + ' All rights reserved';
+    copyright.className = 'whatever I just added'
+</script>
+
 </body>
 </html>
